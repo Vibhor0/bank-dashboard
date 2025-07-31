@@ -1,0 +1,51 @@
+company_id,client_id,name,industry
+1,1,"Adkins, Johnson and Hill",Tech
+2,1,Mendoza-Barton,Finance
+3,2,"Pace, Buchanan and Chavez",Logistics
+4,3,Brooks-Henderson,Finance
+5,3,"Sullivan, Garcia and Zhang",Tech
+6,3,Wade-Becker,Retail
+7,4,Schneider-Jackson,Finance
+8,5,"Gutierrez, Moore and Waters",Tech
+9,5,Barton-Phillips,Logistics
+10,6,Davis-Miller,Healthcare
+11,6,Moore-Dorsey,Retail
+12,7,"Owens, Farmer and Lyons",Tech
+13,7,Glenn LLC,Healthcare
+14,8,"Simpson, Hammond and Brown",Retail
+15,8,Wilson-Castaneda,Healthcare
+16,9,Wright Inc,Logistics
+17,10,Carter Ltd,Logistics
+18,10,Burton LLC,Finance
+19,10,Howe-Schmidt,Logistics
+20,11,Pittman-Evans,Healthcare
+21,11,"Bass, Davis and Farmer",Logistics
+22,12,Jones-Lee,Tech
+23,13,"Sanders, Smith and Sanchez",Finance
+24,13,Valencia Group,Healthcare
+25,13,Berg Group,Healthcare
+26,14,Lee and Sons,Logistics
+27,14,Grant-Dickerson,Tech
+28,15,"Jordan, Heath and Diaz",Healthcare
+29,15,"Anderson, Gonzalez and Williamson",Logistics
+30,16,"Mccarthy, Romero and Garcia",Logistics
+31,16,Hunter-Dunn,Logistics
+32,16,"Santiago, Harris and Murphy",Finance
+33,17,Parks-Brown,Retail
+34,17,"Johnson, Thomas and Hill",Tech
+35,17,Hays and Sons,Tech
+36,18,Martinez-Curry,Logistics
+37,18,"Evans, Jones and Porter",Logistics
+38,18,"Robbins, Rowe and Golden",Finance
+39,19,Peterson LLC,Retail
+40,19,Cole Group,Logistics
+41,19,"Bishop, Garza and Peters",Healthcare
+42,20,Owens-Jones,Retail
+43,21,Brown Group,Tech
+44,22,Smith-Atkinson,Tech
+45,23,"Chung, Hall and Perry",Retail
+46,24,Bond and Sons,Finance
+47,24,Lyons Group,Retail
+48,24,Horton-Hunt,Tech
+49,25,Walker-Moreno,Tech
+50,25,Daniel PLC,Retail
